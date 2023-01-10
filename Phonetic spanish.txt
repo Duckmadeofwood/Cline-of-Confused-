@@ -1,0 +1,9 @@
+Phonetics en espanol
+
+Description
+~~~~~~~~~~~~
+Get Phonetic symobols out of words in spanish
+
+1. Get entry from user to convert into phonetic symbols 
+3. create dictionary that stores words and phoneme
+3. output
